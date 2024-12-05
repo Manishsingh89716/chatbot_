@@ -10,7 +10,7 @@
 * 
 * Installation
 * 1. Clone the Repository
-* git clone https://github.com/your-username/chat-with-pdf.git
+* git clone https://github.com/Manishsingh89716/chatbot_.git
 * cd chat-with-pdf
 * 2. Install Dependencies
 * pip install streamlit PyPDF2 langchain langchain-google-genai python-dotenv faiss-cpu google-generativeai
